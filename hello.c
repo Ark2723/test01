@@ -1,10 +1,13 @@
 #include<stdio.h>
 
-int multiplty(a,b){
+int multiply(a,b){
 	return a*b;
 }
 
 int main(){
-	printf("hey world!");
+	int a;
+	a = multiply(1011,2);
+	printf("hey world!"); 
+	printf("%d",a);
 	return 0;
 } 
