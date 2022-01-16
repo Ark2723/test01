@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int mutiplty(a,b){
+int multiplty(a,b){
 	return a*b;
 }
 
