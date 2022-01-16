@@ -5,6 +5,6 @@ int multiplty(a,b){
 }
 
 int main(){
-	printf("hello world!");
+	printf("yoyo world!");
 	return 0;
 } 
